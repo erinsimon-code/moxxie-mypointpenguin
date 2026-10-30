@@ -6,33 +6,33 @@ export default function TermsPage() {
   return (
     <div className="min-h-screen" style={{ backgroundColor: '#FFFFFF' }}>
       <Navbar />
-      <section className="py-12" style={{ backgroundColor: '#F5F7FA' }}>
+      <section className="py-12" style={{ backgroundColor: '#E8F4FF' }}>
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h1 className="text-4xl font-extrabold mb-4" style={{ color: '#1F2937' }}>Terms of Service</h1>
+          <h1 className="text-4xl font-extrabold mb-4" style={{ color: '#172033' }}>Terms of Service</h1>
           <p className="text-lg" style={{ color: '#6B7280' }}>Last Updated: July 1, 2026</p>
         </div>
       </section>
       <section className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="prose prose-lg max-w-none">
-          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>1. Acceptance of Terms</h2>
+          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>1. Acceptance of Terms</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            By accessing or using Point Adveture's service ("Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you may not access or use the Service.
+            By accessing or using My Point Penguin's service ("Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you may not access or use the Service.
           </p>
-          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>2. Description of Service</h2>
+          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>2. Description of Service</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            Point Adveture provides an AI-powered information and education service accessible through www.pointadveture.com. The Service is intended for informational purposes only and does not constitute professional advice.
+            My Point Penguin provides an AI-powered information and education service accessible through www.mypointpenguin.com. The Service is intended for informational purposes only and does not constitute professional advice.
           </p>
-          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>3. SMS Communications</h2>
+          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>3. SMS Communications</h2>
           <p className="mb-4" style={{ color: '#6B7280' }}>
-            By opting in to SMS communications, you agree to receive text messages from Point Adveture. Standard message and data rates may apply. You may opt out at any time by replying STOP. For help, reply HELP or contact support@pointadveture.com.
+            By opting in to SMS communications, you agree to receive text messages from My Point Penguin. Standard message and data rates may apply. You may opt out at any time by replying STOP. For help, reply HELP or contact support@mypointpenguin.com.
           </p>
-          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>4. Limitation of Liability</h2>
+          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>4. Limitation of Liability</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            Point Adveture shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the Service.
+            My Point Penguin shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the Service.
           </p>
-          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>5. Contact</h2>
+          <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>5. Contact</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            For questions about these Terms, contact us at support@pointadveture.com or 800 N King Street 304-1991, Wilmington, DE 19801.
+            For questions about these Terms, contact us at support@mypointpenguin.com or 800 N King Street 304-1991, Wilmington, DE 19801.
           </p>
         </div>
       </section>

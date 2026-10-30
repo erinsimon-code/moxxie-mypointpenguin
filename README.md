@@ -1,5 +1,5 @@
-# Point Adveture
+# My Point Penguin
 
-AI-powered microsite for Point Adveture.
+AI-powered microsite for My Point Penguin.
 
-Live at: https://www.pointadveture.com
+Live at: https://www.mypointpenguin.com

@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Point Adveture - Online Gaming Adventures That Earn You Aura Points",
-  description: "Point Adveture is the online gaming platform where every quest earns you aura. Go on epic adventures, level up, and collect your rewards.",
+  title: "My Point Penguin - Online Gaming Adventures That Earn You Aura Points",
+  description: "My Point Penguin is the online gaming platform where every quest earns you aura. Go on epic adventures, level up, and collect your rewards.",
 };
 
 export default function RootLayout({

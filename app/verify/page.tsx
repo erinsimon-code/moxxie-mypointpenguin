@@ -72,11 +72,11 @@ function VerifyPageContent() {
     <div className="min-h-screen bg-gray-50 flex items-center justify-center px-4">
       <div className="max-w-sm w-full bg-white rounded-2xl shadow-md p-8">
         <div className="flex justify-center mb-6">
-          <span className="text-2xl font-bold" style={{ color: '#10B981' }}>Point Adveture</span>
+          <span className="text-2xl font-bold" style={{ color: '#6D5EF5' }}>My Point Penguin</span>
         </div>
         <div className="flex justify-center mb-5">
-          <div className="w-16 h-16 bg-gray-100 rounded-full flex items-center justify-center">
-            <CheckCircle className="w-8 h-8" style={{ color: '#10B981' }} strokeWidth={1.5} />
+          <div className="w-16 h-16 rounded-full flex items-center justify-center" style={{ backgroundColor: '#E8F4FF' }}>
+            <CheckCircle className="w-8 h-8" style={{ color: '#14B8A6' }} strokeWidth={1.5} />
           </div>
         </div>
         <h2 className="text-xl font-bold text-gray-900 text-center mb-6">Verify Your Number</h2>
@@ -93,7 +93,7 @@ function VerifyPageContent() {
           onClick={handleConfirm}
           disabled={isRedirecting}
           className={`w-full py-4 rounded-xl text-base font-semibold transition-all ${isRedirecting ? 'bg-gray-400 cursor-not-allowed text-white' : 'text-white'}`}
-          style={{ backgroundColor: isRedirecting ? undefined : '#10B981' }}
+          style={{ backgroundColor: isRedirecting ? undefined : '#6D5EF5' }}
         >
           {isRedirecting ? (
             <span className="flex items-center justify-center gap-2">
@@ -105,7 +105,7 @@ function VerifyPageContent() {
             </span>
           ) : 'Submit'}
         </button>
-        <p className="text-xs text-gray-400 text-center mt-6">Secured by Point Adveture</p>
+        <p className="text-xs text-gray-400 text-center mt-6">Secured by My Point Penguin</p>
       </div>
     </div>
   );
@@ -115,7 +115,7 @@ export default function VerifyPage() {
   return (
     <Suspense fallback={
       <div className="min-h-screen bg-gray-50 flex items-center justify-center">
-        <div className="animate-spin rounded-full h-10 w-10 border-b-2" style={{ borderColor: '#10B981' }} />
+        <div className="animate-spin rounded-full h-10 w-10 border-b-2" style={{ borderColor: '#6D5EF5' }} />
       </div>
     }>
       <VerifyPageContent />
