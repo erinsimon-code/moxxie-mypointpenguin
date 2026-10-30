@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Gamepad2, Trophy, Zap } from 'lucide-react';
+import { Award, Trophy, Zap } from 'lucide-react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 
@@ -13,14 +13,14 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-semibold mb-6" style={{ backgroundColor: '#FFFFFF', color: '#6D5EF5' }}>
-              <Gamepad2 className="w-4 h-4" />
-              Play Games — Earn Aura — Level Up
+              <Award className="w-4 h-4" />
+              Recognize — Reward — Retain
             </div>
             <h1 className="text-5xl font-extrabold mb-6" style={{ color: '#172033' }}>
-              Built for Gamers,<br />Powered by Quests
+              Built for Teams,<br />Powered by Recognition
             </h1>
             <p className="text-xl max-w-3xl mx-auto" style={{ color: '#6B7280' }}>
-              My Point Penguin is an online gaming platform where every game, quest, and challenge you complete earns you real aura points and rewards. We built this for players who want more than just fun — they want to level up.
+              My Point Penguin is an employee rewards and recognition platform where every milestone, achievement, and job well done earns your team real points and rewards. We built this for companies who want their people to feel valued — every day.
             </p>
           </div>
         </div>
@@ -32,24 +32,24 @@ export default function AboutPage() {
           <div>
             <h2 className="text-4xl font-bold mb-6" style={{ color: '#172033' }}>Why We Built This</h2>
             <p className="text-lg mb-4" style={{ color: '#6B7280' }}>
-              Gaming should reward you. We built My Point Penguin because players deserve a platform where their time, skill, and dedication actually earn them something — aura points, prestige, and exclusive rewards.
+              Great work deserves to be recognized. We built My Point Penguin because employees deserve a simple way to be seen, celebrated, and rewarded for the work they do every day.
             </p>
             <p className="text-lg mb-4" style={{ color: '#6B7280' }}>
-              Every quest you complete, every challenge you conquer, and every game you play adds to your aura. The more you play, the more you glow.
+              Every milestone reached, every goal hit, and every contribution made adds to your points balance. The more your team is recognized, the more engaged — and the more rewarded — they become.
             </p>
             <p className="text-lg" style={{ color: '#6B7280' }}>
-              Join thousands of players already earning aura on My Point Penguin. Your next quest is waiting.
+              Join the companies already using My Point Penguin to recognize and reward their employees. Your team's next win is waiting to be celebrated.
             </p>
           </div>
           <div className="rounded-2xl p-8 border" style={{ backgroundColor: '#FFFFFF', borderColor: '#E5E7EB' }}>
             <div className="space-y-6">
               <div className="flex items-start">
                 <div className="flex-shrink-0 w-10 h-10 rounded-full flex items-center justify-center" style={{ backgroundColor: '#E8F4FF' }}>
-                  <Gamepad2 className="w-5 h-5" style={{ color: '#14B8A6' }} />
+                  <Award className="w-5 h-5" style={{ color: '#14B8A6' }} />
                 </div>
                 <div className="ml-4">
-                  <h3 className="text-lg font-semibold mb-1" style={{ color: '#172033' }}>Games & Quests</h3>
-                  <p style={{ color: '#6B7280' }}>Play a wide variety of online games and complete quests to earn aura points with every victory.</p>
+                  <h3 className="text-lg font-semibold mb-1" style={{ color: '#172033' }}>Recognition & Milestones</h3>
+                  <p style={{ color: '#6B7280' }}>Celebrate work anniversaries, goals hit, and everyday wins — every milestone earns points.</p>
                 </div>
               </div>
               <div className="flex items-start">
@@ -58,7 +58,7 @@ export default function AboutPage() {
                 </div>
                 <div className="ml-4">
                   <h3 className="text-lg font-semibold mb-1" style={{ color: '#172033' }}>Earn Real Rewards</h3>
-                  <p style={{ color: '#6B7280' }}>Your aura points unlock real rewards and prestige. The more challenges you complete, the more you earn.</p>
+                  <p style={{ color: '#6B7280' }}>Points unlock real, redeemable rewards. The more recognition your team earns, the more they get back.</p>
                 </div>
               </div>
               <div className="flex items-start">
@@ -66,8 +66,8 @@ export default function AboutPage() {
                   <Zap className="w-5 h-5" style={{ color: '#14B8A6' }} />
                 </div>
                 <div className="ml-4">
-                  <h3 className="text-lg font-semibold mb-1" style={{ color: '#172033' }}>Level Up Fast</h3>
-                  <p style={{ color: '#6B7280' }}>Complete daily challenges and special quests to level up your aura faster than ever before.</p>
+                  <h3 className="text-lg font-semibold mb-1" style={{ color: '#172033' }}>Easy for Every Team</h3>
+                  <p style={{ color: '#6B7280' }}>Give recognition in seconds and let employees redeem points whenever they're ready — no complicated process required.</p>
                 </div>
               </div>
             </div>

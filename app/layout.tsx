@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "My Point Penguin - Online Gaming Adventures That Earn You Aura Points",
-  description: "My Point Penguin is the online gaming platform where every quest earns you aura. Go on epic adventures, level up, and collect your rewards.",
+  title: "My Point Penguin - Employee Rewards & Recognition Platform",
+  description: "My Point Penguin is an employee rewards and recognition platform that helps companies celebrate great work and reward employees with real, redeemable points.",
 };
 
 export default function RootLayout({

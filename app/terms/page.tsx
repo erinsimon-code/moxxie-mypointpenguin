@@ -20,7 +20,7 @@ export default function TermsPage() {
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>2. Description of Service</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            My Point Penguin provides an AI-powered information and education service accessible through www.mypointpenguin.com. The Service is intended for informational purposes only and does not constitute professional advice.
+            My Point Penguin provides an employee rewards and recognition platform accessible through www.mypointpenguin.com, allowing organizations to recognize employees and allowing employees to earn and redeem points for rewards.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>3. SMS Communications</h2>
           <p className="mb-4" style={{ color: '#6B7280' }}>

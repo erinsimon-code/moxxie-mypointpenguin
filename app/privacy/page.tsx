@@ -22,8 +22,8 @@ export default function PrivacyPage() {
           <p className="mb-4" style={{ color: '#6B7280' }}>When you sign up for or use our service, we may collect:</p>
           <ul className="list-disc pl-6 mb-6 space-y-2" style={{ color: '#6B7280' }}>
             <li>Full name and contact information (email address, phone number)</li>
-            <li>Location information (city/state)</li>
-            <li>Questions and information you share with our AI agent</li>
+            <li>Employer and workplace information</li>
+            <li>Points balance, recognition activity, and reward redemption history</li>
             <li>SMS opt-in consent preferences (account notifications and/or customer care)</li>
           </ul>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>3. SMS Messaging</h2>
@@ -39,7 +39,8 @@ export default function PrivacyPage() {
           </ul>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>4. How We Use Your Information</h2>
           <ul className="list-disc pl-6 mb-6 space-y-2" style={{ color: '#6B7280' }}>
-            <li>To provide and improve our AI-powered service</li>
+            <li>To provide and improve our employee rewards and recognition platform</li>
+            <li>To track and administer points, recognition, and reward redemptions</li>
             <li>To communicate with you about your account or inquiries</li>
             <li>To send SMS messages you have opted into</li>
             <li>To comply with legal obligations</li>
