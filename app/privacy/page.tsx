@@ -16,7 +16,7 @@ export default function PrivacyPage() {
         <div className="prose prose-lg max-w-none">
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>1. Introduction</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            My Point Penguin is operated by The Point Penguin LLC ("we," "our," or "us") and is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our service and website at www.mypointpenguin.com. By using our service, you agree to the collection and use of information in accordance with this policy.
+            My Point Penguin is operated by The Point Penguin LLC. My Point Penguin ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our service and website at www.mypointpenguin.com. By using our service, you agree to the collection and use of information in accordance with this policy.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>2. Information We Collect</h2>
           <p className="mb-4" style={{ color: '#6B7280' }}>When you sign up for or use our service, we may collect:</p>
@@ -34,7 +34,7 @@ export default function PrivacyPage() {
             <li>You may receive Transactional Account Notification messages and/or Promotional Marketing messages depending on your opt-in selections.</li>
             <li>Message and data rates may apply. Message frequency varies.</li>
             <li>To opt out, reply STOP to any message. To get help, reply HELP or contact us at support@mypointpenguin.com.</li>
-            <li><strong>No mobile information will be shared with or sold to third parties for marketing or promotional purposes.</strong></li>
+            <li><strong>No mobile information will be shared with third parties or affiliates for marketing/promotional purposes.</strong></li>
             <li>Opting in to SMS is optional and not required to use our service.</li>
           </ul>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>4. How We Use Your Information</h2>

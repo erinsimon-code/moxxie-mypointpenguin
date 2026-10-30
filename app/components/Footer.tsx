@@ -30,7 +30,7 @@ export default function Footer() {
             <h4 className="font-semibold mb-4">Contact</h4>
             <p style={{ color: '#E8F4FF' }}>support@mypointpenguin.com</p>
             <p className="mt-2" style={{ color: '#E8F4FF' }}>800 N King Street 304-1991, Wilmington, DE 19801</p>
-            <p className="mt-2" style={{ color: '#E8F4FF' }}>(833) 571-9204</p>
+            <a href="tel:+18335719204" className="mt-2 block hover:text-white" style={{ color: '#E8F4FF' }}>(833) 571-9204</a>
           </div>
         </div>
         <div className="mt-8 pt-8 text-center" style={{ borderTop: '1px solid #14B8A6', color: '#E8F4FF' }}>

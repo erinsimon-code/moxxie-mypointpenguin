@@ -24,8 +24,15 @@ export default function TermsPage() {
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>3. SMS Communications</h2>
           <p className="mb-4" style={{ color: '#6B7280' }}>
-            By opting in to SMS communications, you agree to receive Transactional Account Notification and Promotional Marketing text messages from My Point Penguin. Standard message and data rates may apply. You may opt out at any time by replying STOP. For help, reply HELP or contact support@mypointpenguin.com.
+            By opting in to SMS communications, you agree to receive Transactional Account Notification and Promotional Marketing text messages from My Point Penguin. The following terms apply:
           </p>
+          <ul className="list-disc pl-6 mb-6 space-y-2" style={{ color: '#6B7280' }}>
+            <li>Message and data rates may apply. Message frequency varies.</li>
+            <li>You may opt out at any time by replying STOP. For help, reply HELP or contact support@mypointpenguin.com.</li>
+            <li>Carriers are not liable for delayed or undelivered messages.</li>
+            <li>Consent is not a condition of purchase.</li>
+            <li>For more information about how we collect, use, and protect your information, see our <Link href="/privacy" style={{ color: '#6D5EF5' }} className="underline">Privacy Policy</Link>.</li>
+          </ul>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>4. Limitation of Liability</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
             My Point Penguin shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the Service.
