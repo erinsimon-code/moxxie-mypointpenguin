@@ -16,7 +16,7 @@ export default function PrivacyPage() {
         <div className="prose prose-lg max-w-none">
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>1. Introduction</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            My Point Penguin ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our service and website at www.mypointpenguin.com. By using our service, you agree to the collection and use of information in accordance with this policy.
+            My Point Penguin is operated by The Point Penguin LLC ("we," "our," or "us") and is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our service and website at www.mypointpenguin.com. By using our service, you agree to the collection and use of information in accordance with this policy.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>2. Information We Collect</h2>
           <p className="mb-4" style={{ color: '#6B7280' }}>When you sign up for or use our service, we may collect:</p>
@@ -24,14 +24,14 @@ export default function PrivacyPage() {
             <li>Full name and contact information (email address, phone number)</li>
             <li>Employer and workplace information</li>
             <li>Points balance, recognition activity, and reward redemption history</li>
-            <li>SMS opt-in consent preferences (account notifications and/or customer care)</li>
+            <li>SMS opt-in consent preferences (Transactional Account Notification and/or Promotional Marketing)</li>
           </ul>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>3. SMS Messaging</h2>
           <p className="mb-4" style={{ color: '#6B7280' }}>
             If you opt in to receive SMS messages from My Point Penguin, the following terms apply:
           </p>
           <ul className="list-disc pl-6 mb-6 space-y-2" style={{ color: '#6B7280' }}>
-            <li>You may receive Account Notification messages and/or Customer Care messages depending on your opt-in selections.</li>
+            <li>You may receive Transactional Account Notification messages and/or Promotional Marketing messages depending on your opt-in selections.</li>
             <li>Message and data rates may apply. Message frequency varies.</li>
             <li>To opt out, reply STOP to any message. To get help, reply HELP or contact us at support@mypointpenguin.com.</li>
             <li><strong>No mobile information will be shared with or sold to third parties for marketing or promotional purposes.</strong></li>
@@ -48,7 +48,7 @@ export default function PrivacyPage() {
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>5. Contact Us</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
             If you have questions about this Privacy Policy, please contact us at:<br />
-            My Point Penguin<br />
+            My Point Penguin, operated by The Point Penguin LLC<br />
             800 N King Street 304-1991, Wilmington, DE 19801<br />
             Email: <a href="mailto:support@mypointpenguin.com" style={{ color: '#6D5EF5' }}>support@mypointpenguin.com</a>
           </p>

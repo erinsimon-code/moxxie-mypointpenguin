@@ -83,6 +83,10 @@ export default function ContactPage() {
                   <p className="text-sm mt-1" style={{ color: '#6B7280' }}>Response within 1–2 business days</p>
                 </div>
                 <div>
+                  <h3 className="text-sm font-semibold uppercase tracking-wide mb-1" style={{ color: '#9CA3AF' }}>Phone</h3>
+                  <a href="tel:+18335719204" className="text-base font-medium hover:underline" style={{ color: '#6D5EF5' }}>(833) 571-9204</a>
+                </div>
+                <div>
                   <h3 className="text-sm font-semibold uppercase tracking-wide mb-1" style={{ color: '#9CA3AF' }}>Mailing Address</h3>
                   <p style={{ color: '#6B7280' }}>My Point Penguin<br />800 N King Street 304-1991<br />Wilmington, DE 19801</p>
                 </div>

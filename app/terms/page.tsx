@@ -16,7 +16,7 @@ export default function TermsPage() {
         <div className="prose prose-lg max-w-none">
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>1. Acceptance of Terms</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            By accessing or using My Point Penguin's service ("Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you may not access or use the Service.
+            My Point Penguin is operated by The Point Penguin LLC. By accessing or using My Point Penguin's service ("Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you may not access or use the Service.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>2. Description of Service</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
@@ -24,7 +24,7 @@ export default function TermsPage() {
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>3. SMS Communications</h2>
           <p className="mb-4" style={{ color: '#6B7280' }}>
-            By opting in to SMS communications, you agree to receive promotional and transactional text messages from My Point Penguin. Standard message and data rates may apply. You may opt out at any time by replying STOP. For help, reply HELP or contact support@mypointpenguin.com.
+            By opting in to SMS communications, you agree to receive Transactional Account Notification and Promotional Marketing text messages from My Point Penguin. Standard message and data rates may apply. You may opt out at any time by replying STOP. For help, reply HELP or contact support@mypointpenguin.com.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>4. Limitation of Liability</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
