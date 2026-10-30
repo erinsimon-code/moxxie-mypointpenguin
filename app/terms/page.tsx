@@ -24,7 +24,7 @@ export default function TermsPage() {
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>3. SMS Communications</h2>
           <p className="mb-4" style={{ color: '#6B7280' }}>
-            By opting in to SMS communications, you agree to receive text messages from My Point Penguin. Standard message and data rates may apply. You may opt out at any time by replying STOP. For help, reply HELP or contact support@mypointpenguin.com.
+            By opting in to SMS communications, you agree to receive promotional and transactional text messages from My Point Penguin. Standard message and data rates may apply. You may opt out at any time by replying STOP. For help, reply HELP or contact support@mypointpenguin.com.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#172033' }}>4. Limitation of Liability</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
